@@ -1,0 +1,36 @@
+{
+    "heightTree": 3,
+    "tournamentStarted": true,
+    "players": [],
+    "name": "test",
+    "bracket": [
+        {
+            "player1": "Bye",
+            "player2": "Bye"
+        },
+        {
+            "player1": "h",
+            "player2": "e"
+        },
+        {
+            "player1": "Bye",
+            "player2": "Bye"
+        },
+        {
+            "player1": "g",
+            "player2": "h"
+        },
+        {
+            "player1": "e",
+            "player2": "f"
+        },
+        {
+            "player1": "c",
+            "player2": "d"
+        },
+        {
+            "player1": "a",
+            "player2": "b"
+        }
+    ]
+}

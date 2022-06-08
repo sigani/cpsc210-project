@@ -1,0 +1,20 @@
+{
+    "heightTree": 2,
+    "tournamentStarted": true,
+    "players": [],
+    "name": "please",
+    "bracket": [
+        {
+            "player1": "Bye",
+            "player2": "Bye"
+        },
+        {
+            "player1": "c",
+            "player2": "d"
+        },
+        {
+            "player1": "a",
+            "player2": "b"
+        }
+    ]
+}

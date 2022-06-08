@@ -1,0 +1,12 @@
+{
+    "heightTree": 2,
+    "tournamentStarted": false,
+    "players": [
+        {"name": "a"},
+        {"name": "b"},
+        {"name": "c"},
+        {"name": "d"}
+    ],
+    "name": "tourneyNoStart",
+    "bracket": []
+}
